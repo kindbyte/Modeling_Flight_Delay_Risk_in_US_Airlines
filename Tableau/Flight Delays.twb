@@ -1480,8 +1480,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1650' minheight='1650' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='34' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='33' param='vert' type-v2='layout-flow' w='98858' x='571' y='889'>
+            <zone h='100000' id='36' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98222' id='35' param='vert' type-v2='layout-flow' w='98858' x='571' y='889'>
                 <zone h='25999' id='8' mode='checkdropdown' name='Avg Delay Rate' param='[federated.1neyrkn0dwrv6j18uhd4t00vtuil].[none:carrier_name:nk]' type-v2='filter' w='11429' x='88000' y='889'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
