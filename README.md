@@ -1,8 +1,13 @@
 
 # Project Overview
 This project analyzes U.S. airline flight delays and builds predictive models to identify flights with a high risk of significant arrival delays (≥15 minutes). The goal is to combine exploratory data analysis, feature engineering, and machine learning to uncover delay patterns and evaluate predictive performance across multiple models.
+<<<<<<< HEAD
 The project consists of two main parts:		
 	•	Data cleaning and preparation using SQL		
+=======
+The project consists of two main parts:	
+	•	Data cleaning and preparation using SQL	
+>>>>>>> c33c8843d15769ff7a52d6f8e7ff5c1ec153d7ad
 	•	Exploratory analysis, visualization, and modeling using Python	
 
 
